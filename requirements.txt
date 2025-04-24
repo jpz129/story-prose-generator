@@ -1,0 +1,10 @@
+fastapi
+setuptools
+wheel
+uvicorn
+langchain
+langchain_community
+langchain-anthropic
+spacy
+pydantic
+python-dotenv
